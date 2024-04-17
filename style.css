@@ -46,6 +46,10 @@ body {
     width: 35%;
 }
 
+#escola-titulo{
+    background-image: #424E61;
+    padding: 12px 0; 
+}
 
 .escola-titulo{
     padding: 12px 0;
