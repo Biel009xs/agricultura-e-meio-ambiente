@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #808080;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -47,7 +47,7 @@ body {
 }
 
 #escola-titulo{
-    background-image: #424E61;
+    background-image: #808080;
     padding: 12px 0; 
 }
 
